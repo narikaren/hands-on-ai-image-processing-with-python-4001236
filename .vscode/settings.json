@@ -19,5 +19,5 @@
   "workbench.statusBar.visible": true,
   "explorer.compactFolders": false,
   "notebook.lineNumbers": "on",
-  "files.autoSave": "off",
+  "files.autoSave": "afterDelay",
 }
